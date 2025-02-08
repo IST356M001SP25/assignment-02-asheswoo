@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+In this assignment, I learned how to break down text data and organize it using lists and dictionaries. I practiced extracting numbers and item names from packaging descriptions and making sure they were in the right order. I also learned how to calculate the total number of items by multiplying values from the list. I worked with reading files line by line and making sure to clean up extra spaces before processing the data. This helped me understand how to handle raw text properly. Finally, I saved the organized data in a structured format, which showed me how to store and use data efficiently. Overall, this assignment helped me get better at working with text, numbers, and files in Python.
